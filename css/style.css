@@ -22,3 +22,6 @@ a:link {
   a:active {
     color: blue;
   }
+  a {
+    color: hotpink;
+  }
